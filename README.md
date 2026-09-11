@@ -1,12 +1,26 @@
 # Project Wake Up!
 A clock based on the Stardance mission Blare
 
+# BOM
+
+1x Seeed XIAO ESP32C3
+1x 2.25in TFT display
+1x 3.3v Buzzer
+4x MX-Style Keyboard Switches
+4x White Blank DSA Keycaps
+4x Through-Hole 1N4148 Diodes
+8x 20cm Female-Female Jumper Wires
+8x M3x5x4 Heatset Inserts
+4x M3x8mm Screws
+4x M3x16mm Screws
+1x 2.54mm 8 Pin Male Header
+
 # Features
-Alarm System: A + Buzzer to wake someone up.
+Alarm System: A + buzzer to wake someone up
 
-Display: Display which can show the time
+Display: A display which can show the time
 
-User Control: 4 Switches to controller the clock
+Controls: 4 Switches to control the clock
 
 # Tools
 PCB designed in KiCAD
@@ -29,6 +43,10 @@ Firmware programmed with Arduino IDE
 <img width="556" height="437" alt="Screenshot 2026-09-11 144424" src="https://github.com/user-attachments/assets/c51c7b5c-3995-442f-a5ad-f6583dd6ec47" />
 <img width="532" height="376" alt="Screenshot 2026-09-11 144413" src="https://github.com/user-attachments/assets/64df2616-db6c-4c6c-b70c-c42e836f2203" />
 <img width="628" height="427" alt="Screenshot 2026-09-11 144403" src="https://github.com/user-attachments/assets/f8ca10c5-8f34-45a4-b5be-b47525d70a7e" />
+
+# Arduino IDE Code 
+
+
 
 # Extras
 It a pretty cool clock
