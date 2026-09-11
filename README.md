@@ -24,7 +24,7 @@ Firmware programmed with Arduino IDE
 <img width="605" height="352" alt="Screenshot 2026-09-11 144536" src="https://github.com/user-attachments/assets/2c2f82ad-9b03-4a04-8c01-f59a05af0263" />
 <img width="548" height="379" alt="Screenshot 2026-09-11 144603" src="https://github.com/user-attachments/assets/f4a5657d-a74f-4522-8b16-aef0f3e0e819" />
 
-# CAD
+# Onshape CAD
 
 <img width="556" height="437" alt="Screenshot 2026-09-11 144424" src="https://github.com/user-attachments/assets/c51c7b5c-3995-442f-a5ad-f6583dd6ec47" />
 <img width="532" height="376" alt="Screenshot 2026-09-11 144413" src="https://github.com/user-attachments/assets/64df2616-db6c-4c6c-b70c-c42e836f2203" />
