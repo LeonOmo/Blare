@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Production/")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
@@ -2806,6 +2806,17 @@
 			(uuid "70d6cb5f-f8a2-4cdd-9182-40820196d84a")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Leona/Downloads/seeed-studio-xiao-rp2040-v26.step"
+			(offset
+				(xyz 9 10.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(gr_line
 		(start 109.51 89.67)
