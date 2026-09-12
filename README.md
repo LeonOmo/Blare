@@ -57,7 +57,7 @@ Firmware programmed with Arduino IDE
 
 # Arduino IDE Code 
 
-<img width="350" height="350" alt="Screenshot 2026-09-12 153312" src="https://github.com/user-attachments/assets/58ced8a5-cad1-4091-a88f-707ecdb09731" />
+<img width="350" height="250" alt="Screenshot 2026-09-12 153312" src="https://github.com/user-attachments/assets/58ced8a5-cad1-4091-a88f-707ecdb09731" />
 
 # Extras
 It a pretty cool clock
