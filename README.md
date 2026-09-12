@@ -60,4 +60,4 @@ Firmware programmed with Arduino IDE
 <img width="350" height="250" alt="Screenshot 2026-09-12 153312" src="https://github.com/user-attachments/assets/58ced8a5-cad1-4091-a88f-707ecdb09731" />
 
 # Extras
-It a pretty cool clock
+Fun Project the code was really different from what i usally do so ai really helped me on this one.
