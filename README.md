@@ -1,6 +1,6 @@
 
 # Project Wake Up!
-A clock based on the Stardance mission Blare
+A alarm clock based on the Stardance mission "Blare" which also shows the time.
 
 # BOM
 
@@ -31,7 +31,7 @@ Alarm System: A + buzzer to wake someone up
 
 Display: A display which can show the time
 
-Controls: 4 Switches to control the clock
+Controls: 4 Switches to control the clock (Setting the time and Setting up the alarm)
 
 # Tools
 PCB designed in KiCAD
