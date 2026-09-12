@@ -1,3 +1,4 @@
+
 # Project Wake Up!
 A clock based on the Stardance mission Blare
 
@@ -56,7 +57,7 @@ Firmware programmed with Arduino IDE
 
 # Arduino IDE Code 
 
-
+<img width="358" height="233" alt="Screenshot 2026-09-12 153312" src="https://github.com/user-attachments/assets/58ced8a5-cad1-4091-a88f-707ecdb09731" />
 
 # Extras
 It a pretty cool clock
